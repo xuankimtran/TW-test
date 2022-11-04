@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E0DFB3EAA541498B4D9993BA2BAAFC24",
+  "keywordClasses": [
+    {
+      "name": "myNewStepDefinition.MyStepDefinition",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
