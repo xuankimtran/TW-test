@@ -1,14 +1,11 @@
 version: 0.2
-env:
-  secrets_manager:
-   KATALON_API_KEY: /CodeBuild/KATALON_API_KEY
 phases:
   pre_build:
     commands:
       - docker pull katalonstudio/katalon
   build:
     commands:
-      - docker run -t --rm -v "$(pwd)":/katalon/katalon/source katalonstudio/katalon katalon-execute.sh -apiKey=$KATALON_API_KEY -browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Booking flows pass"
+      - docker run -t --rm -v "$(pwd)":/katalon/katalon/source katalonstudio/katalon katalon-execute.sh -apiKey="b7ac7190-fb75-4579-852a-2eb5d69be11d" -browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Booking flows pass"
 artifacts:
   files:
     - report/*
