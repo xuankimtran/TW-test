@@ -5,7 +5,7 @@ phases:
       - docker pull katalonstudio/katalon
   build:
     commands:
-      - docker run -t --rm -v "$(pwd)":/katalon/katalon/source katalonstudio/katalon katalon-execute.sh -apiKey="b7ac7190-fb75-4579-852a-2eb5d69be11d" -browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Booking flows pass"
+      - docker run -t --rm -v "$(pwd)":/katalon/katalon/source katalonstudio/katalon katalon-execute.sh -apiKey="150603ce-c298-47a9-94d7-c4657e43a7b6" -browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Booking flows pass"
 artifacts:
   files:
     - report/*
