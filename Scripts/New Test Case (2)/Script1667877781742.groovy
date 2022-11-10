@@ -19,5 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-CucumberKW.runFeatureFile('Include/features/New Feature File.feature')
+WebUI.navigateToUrl('https://zingnews.vn/')
+
+WebUI.click(findTestObject('Object Repository/Page_Zing - Thng tin uy tn, hnh nh n tng - _774402/a_Gii tr'))
+
+WebUI.closeBrowser()
 

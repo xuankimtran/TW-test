@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Zing NewsTp ch tri thc trc tuyn          _842c5a</name>
+   <tag></tag>
+   <elementGuidId>40364dfc-2b24-4835-b8c1-64c98a7d713f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Zing News - Thông tin uy tín, hình ảnh ấn tượng&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='zing-header']/div/h1/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6a891f61-6eaf-48a1-aac5-dec2983e6719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//zingnews.vn</value>
+      <webElementGuid>36348908-e4b4-4a0d-ae4e-ef4a8309cf66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Zing News - Thông tin uy tín, hình ảnh ấn tượng</value>
+      <webElementGuid>cffa07ce-20a9-4350-8451-0f136741c84b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zing NewsTạp chí tri thức trực tuyến
+                    v1.6.81
+                </value>
+      <webElementGuid>87ac7dc0-274c-4f33-b161-6f54c6012e17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zing-header&quot;)/div[@class=&quot;page-wrapper&quot;]/h1[@class=&quot;logo&quot;]/a[1]</value>
+      <webElementGuid>4a331872-db1a-48b7-9f4a-696dfef3f3d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='zing-header']/div/h1/a</value>
+      <webElementGuid>1562e48a-4d94-4154-9ba7-9aa539fdd937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adtima'])[1]/following::a[1]</value>
+      <webElementGuid>7c8135a3-6176-43c3-9180-2702587e3653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zing News']/parent::*</value>
+      <webElementGuid>c3838f71-ae58-4afb-905d-27a26495b60f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '//zingnews.vn')]</value>
+      <webElementGuid>6221bdc3-349d-48e6-8ca4-0bb3ec9c890b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/a</value>
+      <webElementGuid>03c4a3d5-969a-4214-bab0-c6211a241efb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//zingnews.vn' and @title = 'Zing News - Thông tin uy tín, hình ảnh ấn tượng' and (text() = 'Zing NewsTạp chí tri thức trực tuyến
+                    v1.6.81
+                ' or . = 'Zing NewsTạp chí tri thức trực tuyến
+                    v1.6.81
+                ')]</value>
+      <webElementGuid>63fc9034-badc-4665-9621-aaa7816034b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

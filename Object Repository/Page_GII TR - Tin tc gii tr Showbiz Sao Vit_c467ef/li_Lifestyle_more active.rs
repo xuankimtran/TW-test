@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Lifestyle_more active</name>
+   <tag></tag>
+   <elementGuidId>8c17b5ac-48bf-4048-af9d-f808be1ad244</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.more.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='zing-header']/div/nav/ul/li[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>66bdf396-9da8-4adc-9184-5c55f5b1b550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>more active</value>
+      <webElementGuid>41852c27-7d5c-439a-ac52-95f77830a176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zing-header&quot;)/div[@class=&quot;page-wrapper&quot;]/nav[@class=&quot;category-menu&quot;]/ul[1]/li[@class=&quot;more active&quot;]</value>
+      <webElementGuid>2ffc9c66-2263-48c1-940a-625cc0fcb545</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='zing-header']/div/nav/ul/li[9]</value>
+      <webElementGuid>6d939a57-bfe8-46c0-b5b6-b11952feb6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lifestyle'])[1]/following::li[2]</value>
+      <webElementGuid>45b57f01-7dff-4329-8758-07709051da36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sự kiện'])[1]/following::li[3]</value>
+      <webElementGuid>40705518-70c2-479b-8ae4-2d1b46e58a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xuất bản'])[2]/preceding::li[1]</value>
+      <webElementGuid>ea1bba79-4167-46e7-a74f-939811e6d668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tin tức xuất bản'])[2]/preceding::li[1]</value>
+      <webElementGuid>e8efcb72-460f-40f1-9698-a55817ad6996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]</value>
+      <webElementGuid>c8693f11-1de1-44ab-a166-f27bbe64205e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

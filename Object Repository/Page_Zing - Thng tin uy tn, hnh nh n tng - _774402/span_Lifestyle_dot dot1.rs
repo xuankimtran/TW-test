@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lifestyle_dot dot1</name>
+   <tag></tag>
+   <elementGuidId>771b3906-d593-46ec-b146-94dc90dc60da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.dot.dot1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='zing-header']/div/nav/ul/li[9]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e07b7727-cf6e-4184-89a2-6dfcecfefb41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dot dot1</value>
+      <webElementGuid>f1df9811-eb11-495e-8778-487aba38b1b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zing-header&quot;)/div[@class=&quot;page-wrapper&quot;]/nav[@class=&quot;category-menu&quot;]/ul[1]/li[@class=&quot;more&quot;]/span[@class=&quot;dot dot1&quot;]</value>
+      <webElementGuid>6315b0ac-1ce8-431c-ac28-7a672a10c99b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='zing-header']/div/nav/ul/li[9]/span</value>
+      <webElementGuid>658df6c0-6c02-4381-a4c7-9ff7cbc66de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/span</value>
+      <webElementGuid>9956d23f-e3c3-45b2-9880-f33d2d16ab7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

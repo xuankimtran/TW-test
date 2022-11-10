@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Book review</name>
+   <tag></tag>
+   <elementGuidId>94384672-8fc6-4e33-bcb9-c659114f329d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-1-content']/ul/li[7]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>858dcbfc-53b4-468f-9f9d-52064c0a3d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-navigation-item__label</value>
+      <webElementGuid>e3bfc1d2-b4c7-4cfc-a04e-e529b6bffeda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book review</value>
+      <webElementGuid>321a53fc-0517-4179-a262-31b5b1290b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-1-content&quot;)/ul[@class=&quot;wp-block-navigation__container&quot;]/li[@class=&quot;has-small-font-size wp-block-navigation-item  menu-item menu-item-type-taxonomy menu-item-object-category wp-block-navigation-link&quot;]/a[@class=&quot;wp-block-navigation-item__content&quot;]/span[@class=&quot;wp-block-navigation-item__label&quot;]</value>
+      <webElementGuid>1130ac7e-b395-4db0-9466-2d0544393691</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-1-content']/ul/li[7]/a/span</value>
+      <webElementGuid>febb844e-7138-449b-8d0b-616f2a649f01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stories'])[1]/following::span[1]</value>
+      <webElementGuid>32cdf7cd-f153-4487-ac00-880be34d160e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::span[2]</value>
+      <webElementGuid>c4561f62-e0dd-4f7a-a918-c149378339be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Food Review'])[1]/preceding::span[1]</value>
+      <webElementGuid>f58160c5-ef6a-454d-a1d0-0fcbd8a8795c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Movies Review'])[1]/preceding::span[2]</value>
+      <webElementGuid>dee2500a-d5d3-40d8-a1a9-e68ffd902fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Book review']/parent::*</value>
+      <webElementGuid>55299650-c9b9-4ab6-a4cd-29fb08161111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a/span</value>
+      <webElementGuid>d95b1ac0-5039-486c-9d82-dba2f1d77903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Book review' or . = 'Book review')]</value>
+      <webElementGuid>65e06e99-bbdb-46c7-8841-2e5503e570a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
