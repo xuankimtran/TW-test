@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_Medicaid</name>
+   <name>td_30</name>
    <tag></tag>
-   <elementGuidId>5add1804-4ae2-429a-89e3-2d8918ff3fb3</elementGuidId>
+   <elementGuidId>52d14499-8a02-4f03-8fab-471f55a9151d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//section[@id='appointment']/div/div/form/div[3]/div/label[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[32]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,85 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>3e6d3711-2e3c-4181-b380-4d084fd51e1e</webElementGuid>
+      <value>td</value>
+      <webElementGuid>d66a35dd-650b-41ad-8460-855615bd62c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>radio-inline</value>
-      <webElementGuid>ae81b86a-7527-448d-a083-c69b3856f4cb</webElementGuid>
+      <value>day</value>
+      <webElementGuid>678f4b18-e9f9-4b55-88be-032ac050088d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                             Medicaid
-                        </value>
-      <webElementGuid>d2cd84ba-9888-4ad2-b54a-4d9f1088d535</webElementGuid>
+      <value>30</value>
+      <webElementGuid>1d8a11c7-63f6-411c-ab4b-68e89c7d7a90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;appointment&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/label[@class=&quot;radio-inline&quot;]</value>
-      <webElementGuid>3280c855-5cb0-464e-90c9-d3fcbeec1fcd</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[5]/td[@class=&quot;day&quot;]</value>
+      <webElementGuid>8c59146e-3b78-42f8-9c9e-0d4162795879</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//section[@id='appointment']/div/div/form/div[3]/div/label[2]</value>
-      <webElementGuid>4d69609c-7432-4930-846e-4eda0425c4df</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[32]</value>
+      <webElementGuid>3929d8a1-4fd3-4cdb-a2be-e3e356a98eae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/following::label[2]</value>
-      <webElementGuid>0c69e197-18a2-487b-8632-f4d888170e96</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[32]</value>
+      <webElementGuid>90a1dcde-051e-4a1f-bbc4-7805a472c2d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Date (Required)'])[1]/preceding::label[2]</value>
-      <webElementGuid>1e5aedb9-c2be-4de3-b7c3-a6675c7fd467</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[11]</value>
+      <webElementGuid>ca908f87-6ff4-4e1e-b9e8-93fd1381642e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Medicaid']/parent::*</value>
-      <webElementGuid>18ae6181-2963-4cfa-bad3-8bde9a502946</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[11]</value>
+      <webElementGuid>ff44e702-7a0a-4493-8721-5534d3dedfdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//label[2]</value>
-      <webElementGuid>a32493ce-b58a-4f15-a105-e6e7a36e2746</webElementGuid>
+      <value>//tr[5]/td[4]</value>
+      <webElementGuid>ce42dfdd-3ff0-441b-bd79-2e500b8fe979</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = '
-                             Medicaid
-                        ' or . = '
-                             Medicaid
-                        ')]</value>
-      <webElementGuid>9110e290-c39b-4de2-be34-4b911be4536b</webElementGuid>
+      <value>//td[(text() = '30' or . = '30')]</value>
+      <webElementGuid>dcc1138e-6d4a-44ec-a04e-6b9661ded720</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
